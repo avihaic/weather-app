@@ -1,0 +1,11 @@
+http://api.weatherstack.com/
+50f99f6cd7dc052ec79e3a5695fb7414
+mapbox
+-------
+pk.eyJ1IjoiYXZpaGFpYyIsImEiOiJja2tsa2ZuYTIxaXlkMnVwZ2gyYjM0Y3poIn0.zs4KkgbfRBDmQvSaJwoehA
+32.109333,34.855499
+
+weatherstack and mapbox api
+
+
+
